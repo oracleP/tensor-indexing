@@ -1,2 +1,2 @@
 # tensor-indexing
-tensor for deep learning and computer vision
+here tensor for deep learning and computer vision
